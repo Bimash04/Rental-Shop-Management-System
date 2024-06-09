@@ -1,0 +1,2 @@
+•A Python-based system for renting and returning various items, including browsing a catalog, selecting items, and processing returns.
+•Facilitated efficient inventory management and easy catalog updates for administrators, enhancing overall system usability.
